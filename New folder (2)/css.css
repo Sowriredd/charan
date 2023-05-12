@@ -1,0 +1,29 @@
+.main{
+    font-family: "Geneva";
+    font-weight:italic;
+    font-style:normal;
+
+}
+.card{
+    text-align:center;
+    background-color:white;
+    border-top-left-radius:34px;
+    
+
+}
+.bg{
+    background-image:url("https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg?cs=srgb&dl=pexels-pixabay-268533.jpg&fm=jpg");
+    height:100vh;
+    width:100vh;
+    background-size:cover;
+
+}
+.butt0n{
+    height:16px;
+    width:34px;
+    border-radius:34px;
+    color:white;
+}
+.bg-color{
+    background-color:red;
+}
